@@ -1,3 +1,11 @@
+<p align="center">
+  <img alt="Home Page" src="./assets/images/IMG_4645.PNG" width="200">
+  <img alt="Home Page 2" src="./assets/images/IMG_4652.PNG" width="200">
+  <img alt="Restaurant Page" src="./assets/images/IMG_4646.PNG" width="200">
+  <img alt="Checkout Page" src="./assets/images/IMG_4647.PNG" width="200">
+  <img alt="Map Page" src="./assets/images/IMG_4651.PNG" width="200">
+</p>
+
 <!-- Title -->
 <h1 align="center">
   Create React Native App
