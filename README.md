@@ -1,3 +1,14 @@
+<!-- Title -->
+<h1 align="center">
+  Welcome to Seoul Bites
+</h1>
+<h2 align="center">
+  An app designed to bring an authentic taste of Seoul to your home
+</h2>
+<p align="center">
+  <em>Browse nearby restaurants, sorted by category, and select from a diverse array of Korean cuisine</em>
+</p>
+
 <p align="center">
   <img alt="Home Page" src="./assets/images/IMG_4645.PNG" width="200">
   <img alt="Home Page 2" src="./assets/images/IMG_4652.PNG" width="200">
